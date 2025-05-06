@@ -26,3 +26,4 @@ Supermarkets generate higher sales volumes, while grocery stores have better ite
 
 
 This project exemplifies how data visualization tools like Power BI can be leveraged to extract meaningful insights from sales data, aiding in strategic planning and operational efficiency.
+![Screenshot (149)](https://github.com/user-attachments/assets/af52fa70-365b-4de7-ab45-843c7c5424cc)
